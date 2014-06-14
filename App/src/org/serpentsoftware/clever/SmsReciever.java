@@ -10,9 +10,10 @@ import android.widget.Toast;
 
 public class SmsReciever extends BroadcastReceiver {
 	String tag= "SmsReciever";
-
+	
 	@Override
 	public void onReceive(Context context, Intent intent) {
+		
 		// TODO Auto-generated method stub
 		final Bundle bundle = intent.getExtras();
 
