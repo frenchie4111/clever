@@ -1,0 +1,3 @@
+[submodule "App/asmack"]
+	path = App/asmack
+	url = https://github.com/Flowdalic/asmack.git
